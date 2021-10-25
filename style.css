@@ -1,0 +1,37 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar{
+    min-height: 90px;
+}
+
+.navbar .btn{
+    padding: .625rem 1.25rem !important;
+}
+
+
+.text-primary{
+    color: #6209DB !important;
+}
+
+
+
+.btn-primary{
+    background-color: #6209DB;
+    border-color: #6209DB;
+}
+
+.btn-primary:hover{
+    background-color: #6209DB;
+    border-color: #6209DB;
+}
+
+.bg-primary{
+    background-color: #6209DB !important;
+}
+
+.content{
+    max-width: 500px;
+}
+
